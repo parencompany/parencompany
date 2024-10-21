@@ -4,7 +4,7 @@
 --- 
 
 > [!NOTE]  
-> This account is for contributing upstream to Github projects only -- all of my 'wholly original work' (barring whatever makes sense to host here, like my personal GH Pages website) will be self-hosted as part of the [Magkit's](https://magkit.software) [Gitlab Instance](https://github.com).
+> This account is for contributing upstream to Github projects only -- all of my 'wholly original work' (barring whatever makes sense to host here, like my personal GH Pages website and the like) will instead be self-hosted as part of the [Magkit's](https://magkit.software) [Gitlab Instance](https://github.com).
 
 ---
 <div align="center">
